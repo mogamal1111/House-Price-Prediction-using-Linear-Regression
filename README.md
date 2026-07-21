@@ -112,8 +112,6 @@ Removing outliers using the IQR method slightly improved the model performance, 
 
 ### Actual vs Predicted Prices
 
-![Actual vs Predicted Prices](images/prediction.png)
-
 ![Actual vs Predicted Prices](images/actual_vs_predicted_image.png)
 
 ---
